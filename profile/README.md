@@ -1,16 +1,25 @@
 # jailbreak.party
-**we make iOS jailbreaking stuff**
+**A team of developers sharing their various projects, related to exploits, modding, and jailbreaking on iOS/iPadOS platforms. We have many apps and shortcuts that take advantage of these methods.**
+
+## The Team 
+- [Skadz](https://github.com/skadz108), Main Developer
+- [lunginspector](https://github.com/lunginspector), Developer
 
 ## Projects
- - [ResSetX](https://github.com/jailbreakdotparty/ResSetX-Mobile), a port of ResSet16 that works on all modern iOS versions
- - [BroccoliAnalytics](https://github.com/jailbreakdotparty/BroccoliAnalytics), a PoC tool allowing for arbitrary file reading via the Settings app
- - Some upcoming apps/tools
+## [BlacklistBeGone](<https://github.com/jailbreakdotparty/BlacklistBeGone>)
+Enterprise app blacklist remover using SparseRestore.
 
-## Team
-- [Skadz](https://github.com/skadz108), Main Developer
-- [Lrdsnow](https://github.com/Lrdsnow), Developer
-- [lunginspector](https://github.com/lunginspector), Tester
-- [MildPepperCat](https://github.com/ktrrbypass), Tester ig
+## [Tender](<https://github.com/lunginspector/Nugget-Mobile-Revamped>)
+On-device version of Nugget with some extra improvements.
+
+## [Accessible](<https://github.com/lunginspector/Accessible>)
+A jailed filesystem tool for iOS 15+, iPadOS 15+, and watchOS 8+. View the filesystem, open internal applications, and get deeper insights on your device.
+
+## [BroccoliAnalytics](<https://github.com/jailbreakdotparty/BroccoliAnalytics>)
+Arbitrary file reading with SparseRestore.
+
+## [Lithium](<https://github.com/lunginspector/Lithium>)
+A jailed customization tool for iOS 16.0+, using MDM configuration profiles.
 
 ## Contact
 We can be reached via Twitter (`@jbdotparty`), or via email at `team@jailbreak.party`
