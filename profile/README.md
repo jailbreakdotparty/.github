@@ -6,6 +6,9 @@
 - [lunginspector](https://github.com/lunginspector), Developer
 
 ## Projects
+## [dirtyZero](<https://github.com/jailbreakdotparty/dirtyZero)
+A simple customization toolbox, utilizing [CVE-2025-24203](<https://project-zero.issues.chromium.org/issues/391518636>). Patched in iOS 18.4. 
+
 ## [BlacklistBeGone](<https://github.com/jailbreakdotparty/BlacklistBeGone>)
 Enterprise app blacklist remover using SparseRestore.
 
