@@ -1,13 +1,16 @@
 # jailbreak.party
-**A team of developers sharing their various projects, related to exploits, modding, and jailbreaking on iOS/iPadOS platforms. We have many apps and shortcuts that take advantage of these methods.**
+**we make iOS apps, tools, and scripts.**
 
-## The Team 
-- [Skadz](https://github.com/skadz108), Main Developer
-- [lunginspector](https://github.com/lunginspector), Developer
+## The Team
+- [lunginspector](https://github.com/lunginspector): Manager, Shortcuts Researcher, & Developer
+- [Skadz](https://github.com/skadz108): Project Lead, Main Developer, & System Researcher
 
-## Projects
+## Our Projects
 ## [dirtyZero](<https://github.com/jailbreakdotparty/dirtyZero>)
 A simple customization toolbox, utilizing [CVE-2025-24203](<https://project-zero.issues.chromium.org/issues/391518636>). Patched in iOS 18.4.
+
+## dirtyOne (upcoming)
+The ultimate iOS toolbox for MDC/KFD/TrollStore, dirtyZero, and future exploits. Supports iOS 16.0 and higher.
 
 ## [AvarkSign](<https://github.com/jailbreakdotparty/AvarkSign>)
 Modern, fast, and simple IPA sideloader.
@@ -15,17 +18,11 @@ Modern, fast, and simple IPA sideloader.
 ## [BlacklistBeGone](<https://github.com/jailbreakdotparty/BlacklistBeGone>)
 Enterprise app blacklist remover using SparseRestore.
 
-## [Tender](<https://github.com/lunginspector/Nugget-Mobile-Revamped>)
-On-device version of Nugget with some extra improvements.
-
 ## [Accessible](<https://github.com/lunginspector/Accessible>)
 A jailed filesystem tool for iOS 15+, iPadOS 15+, and watchOS 8+. View the filesystem, open internal applications, and get deeper insights on your device.
-
-## [BroccoliAnalytics](<https://github.com/jailbreakdotparty/BroccoliAnalytics>)
-Arbitrary file reading with SparseRestore.
 
 ## [Lithium](<https://github.com/lunginspector/Lithium>)
 A jailed customization tool for iOS 16.0+, using MDM configuration profiles.
 
 ## Contact
-We can be reached via Twitter (`@jbdotparty`), or via email at `team@jailbreak.party`
+We can be reached via [our Discord](<https://jailbreak.party/discord>), Twitter (`@jbdotparty`), or via email at `team@jailbreak.party`.
