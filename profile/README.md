@@ -9,8 +9,8 @@
 ## [dirtyZero](<https://github.com/jailbreakdotparty/dirtyZero>)
 A simple customization toolbox, utilizing [CVE-2025-24203](<https://project-zero.issues.chromium.org/issues/391518636>). Patched in iOS 18.4.
 
-## dirtyOne (upcoming)
-The ultimate iOS toolbox for MDC/KFD/TrollStore, dirtyZero, and future exploits. Supports iOS 16.0 and higher.
+## [Bridge](<https://github.com/jailbreakdotparty/Bridge>)
+An internal app opener & extractor for jailed iDevices running iOS 16.0 - 26.0.1. (limited support for 26.1+)
 
 ## [AvarkSign](<https://github.com/jailbreakdotparty/AvarkSign>)
 Modern, fast, and simple IPA sideloader.
