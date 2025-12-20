@@ -12,17 +12,17 @@ A simple customization toolbox, utilizing [CVE-2025-24203](<https://project-zero
 ## [Bridge](<https://github.com/jailbreakdotparty/Bridge>)
 An internal app opener & extractor for jailed iDevices running iOS 16.0 - 26.0.1. (limited support for 26.1+)
 
+## [Accessible](<https://github.com/jailbreakdotparty/Accessible>)
+A jailed filesystem utility for iOS 16+, utlizing the Shortcuts application.
+
+## [PancakeStore](<https://github.com/jailbreakdotparty/PancakeStore>)
+MuffinStore Jailed, but with a proper UI. iOS 16.4 and later.
+
 ## [AvarkSign](<https://github.com/jailbreakdotparty/AvarkSign>)
 Modern, fast, and simple IPA sideloader.
 
 ## [BlacklistBeGone](<https://github.com/jailbreakdotparty/BlacklistBeGone>)
 Enterprise app blacklist remover using SparseRestore.
-
-## [Accessible](<https://github.com/lunginspector/Accessible>)
-A jailed filesystem tool for iOS 15+, iPadOS 15+, and watchOS 8+. View the filesystem, open internal applications, and get deeper insights on your device.
-
-## [Lithium](<https://github.com/lunginspector/Lithium>)
-A jailed customization tool for iOS 16.0+, using MDM configuration profiles.
 
 ## Contact
 We can be reached via [our Discord](<https://jailbreak.party/discord>), Twitter (`@jbdotparty`), or via email at `team@jailbreak.party`.
