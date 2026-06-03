@@ -16,7 +16,7 @@
 | [PancakeStore](https://github.com/jailbreakdotparty/PancakeStore) | A jailed app store app downgrader, based off of MuffinStoreJailed. | iOS 16.4+ |
 | [Lithium](https://github.com/jailbreakdotparty/Lithium) | A very basic and limited customization tool that uses only MDM configuration profiles. | iOS 16.0+ |
 | [SparseBoxPlus](https://github.com/jailbreakdotparty/SparseBoxPlus) | A MobileGestalt customization toolbox using bl_sbx (BookRestore). Forked from SparseBox. | iOS 17.4 - iOS 26.1¹ |
-| [Omega](https://github.com/jailbreakdotparty/Omega) | Enterprise app blacklist remover using SparseRestore. | iOS 16.0 - iOS 18.0.1 |
+| [Omega](https://github.com/jailbreakdotparty/Omega) | A simple tool to clear app revoke and certificate validity databases, for sideloaders. | iOS 16.0 - Latest |
 
 While not explicitly stated, these tools also work on iPadOS, though YMMV.
 
