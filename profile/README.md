@@ -13,6 +13,7 @@
 | Project Name | Description | Supported Software |
 | - | - | - |
 | [dirtyZero](https://github.com/jailbreakdotparty/dirtyZero) | A simple customization toolbox that utilizes various exploits to zero out file memory. | iOS 16.0 - iOS 26.0.1¹ |
+| [Blade](https://github.com/jailbreakdotparty/Blade) | Coming soon... | iOS 16.0 - iOS 26.0.1¹ |
 | [PancakeStore](https://github.com/jailbreakdotparty/PancakeStore) | A jailed app store app downgrader, based off of MuffinStoreJailed. | iOS 16.4+ |
 | [Lithium](https://github.com/jailbreakdotparty/Lithium) | A very basic and limited customization tool that uses only MDM configuration profiles. | iOS 16.0+ |
 | [SparseBoxPlus](https://github.com/jailbreakdotparty/SparseBoxPlus) | A MobileGestalt customization toolbox using bl_sbx (BookRestore). Forked from SparseBox. | iOS 17.4 - iOS 26.1¹ |
