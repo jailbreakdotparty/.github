@@ -12,10 +12,10 @@
 ## Projects
 | Project Name | Description | Supported Software |
 | - | - | - |
-| [dirtyZero](https://github.com/jailbreakdotparty/dirtyZero) | A simple customization toolbox that utilizes various exploits to zero out file memory. | iOS 16.0 - iOS 26.0.1¹ |
+| [dirtyZero](https://github.com/jailbreakdotparty/dirtyZero) | A simple customization toolbox that utilizes CVE-2025-24203. | iOS 16.0 - iOS 18.3.2¹ |
 | [Blade](https://github.com/jailbreakdotparty/Blade) | Coming soon... | iOS 16.0 - iOS 26.0.1¹ |
-| [PancakeStore](https://github.com/jailbreakdotparty/PancakeStore) | A jailed app store app downgrader, based off of MuffinStoreJailed. | iOS 16.4+ |
-| [Lithium](https://github.com/jailbreakdotparty/Lithium) | A very basic and limited customization tool that uses only MDM configuration profiles. | iOS 16.0+ |
+| [PancakeStore](https://github.com/jailbreakdotparty/PancakeStore) | A jailed app store app downgrader, based off of MuffinStoreJailed. | iOS 16.4 - Latest |
+| [Lithium](https://github.com/jailbreakdotparty/Lithium) | A configuration profile generator that's centered around device customization. | iOS 16.0 - Latest |
 | [SparseBoxPlus](https://github.com/jailbreakdotparty/SparseBoxPlus) | A MobileGestalt customization toolbox using bl_sbx (BookRestore). Forked from SparseBox. | iOS 17.4 - iOS 26.1¹ |
 | [Omega](https://github.com/jailbreakdotparty/Omega) | A simple tool to clear app revoke and certificate validity databases, for sideloaders. | iOS 16.0 - Latest |
 
