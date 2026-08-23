@@ -3,7 +3,7 @@
 
 [Website](https://jailbreak.party) • [Discord](https://jailbreak.party/discord) • [Twitter](https://twitter.com/jbdotparty)
 
-> If you need support, join the discord! **We will NOT respond to requests for support on our Twitter/Discord accounts or emails.**
+> If you need support, join the Discord! **We will NOT respond to requests for support on our Twitter/Discord accounts or emails.**
 
 ## Team
 - [lunginspector](https://github.com/lunginspector): Manager & Developer
@@ -12,11 +12,10 @@
 ## Projects
 | Project Name | Description | Supported Software |
 | - | - | - |
-| [dirtyZero](https://github.com/jailbreakdotparty/dirtyZero) | A simple customization toolbox that utilizes CVE-2025-24203. | iOS 16.0 - iOS 18.3.2¹ |
 | [Blade](https://github.com/jailbreakdotparty/Blade) | Coming soon... | iOS 16.0 - iOS 26.0.1¹ |
-| [PancakeStore](https://github.com/jailbreakdotparty/PancakeStore) | A jailed app store app downgrader, based off of MuffinStoreJailed. | iOS 16.4 - Latest |
+| [PancakeStore](https://github.com/jailbreakdotparty/PancakeStore) **(EoL)** | An iOS app downgrader based off of MuffinStore Jailed. | iOS 16.4 - Latest |
+| [dirtyZero](https://github.com/jailbreakdotparty/dirtyZero) | A simple customization toolbox that utilizes CVE-2025-24203. | iOS 16.0 - iOS 18.3.2¹ |
 | [Lithium](https://github.com/jailbreakdotparty/Lithium) | A configuration profile generator that's centered around device customization. | iOS 16.0 - Latest |
-| [SparseBoxPlus](https://github.com/jailbreakdotparty/SparseBoxPlus) | A MobileGestalt customization toolbox using bl_sbx (BookRestore). Forked from SparseBox. | iOS 17.4 - iOS 26.1¹ |
 | [Omega](https://github.com/jailbreakdotparty/Omega) | A simple tool to clear app revoke and certificate validity databases, for sideloaders. | iOS 16.0 - Latest |
 
 While not explicitly stated, these tools also work on iPadOS, though YMMV.
