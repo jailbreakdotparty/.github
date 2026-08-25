@@ -12,7 +12,8 @@
 ## Projects
 | Project Name | Description | Supported Software |
 | - | - | - |
-| [Blade](https://github.com/jailbreakdotparty/Blade) | Coming soon... | iOS 16.0 - iOS 26.0.1¹ |
+| [Blade](https://github.com/jailbreakdotparty/Blade) | Coming soon... | iOS 16.0 - 18.7.1 & iOS 26.0/26.0.1¹ |
+| [Erosion](https://github.com/jailbreakdotparty/Erosion) | A collection of customization tweaks that use the bad_query sandbox escape. | iOS 26.0 - 26.6.1 & iOS 27.0db1-db4 |
 | [PancakeStore](https://github.com/jailbreakdotparty/PancakeStore) **(EoL)** | An iOS app downgrader based off of MuffinStore Jailed. | iOS 16.4 - Latest |
 | [dirtyZero](https://github.com/jailbreakdotparty/dirtyZero) | A simple customization toolbox that utilizes CVE-2025-24203. | iOS 16.0 - iOS 18.3.2¹ |
 | [Lithium](https://github.com/jailbreakdotparty/Lithium) | A configuration profile generator that's centered around device customization. | iOS 16.0 - Latest |
