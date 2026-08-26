@@ -13,11 +13,11 @@
 | Project Name | Description | Supported Software |
 | - | - | - |
 | [Blade](https://github.com/jailbreakdotparty/Blade) | Coming soon... | iOS 16.0 - 18.7.1 & iOS 26.0/26.0.1¹ |
-| [Erosion](https://github.com/jailbreakdotparty/Erosion) | A collection of customization tweaks that use the bad_query sandbox escape. | iOS 26.0 - 26.6.1 & iOS 27.0db1-db4 |
-| [PancakeStore](https://github.com/jailbreakdotparty/PancakeStore) **(EoL)** | An iOS app downgrader based off of MuffinStore Jailed. | iOS 16.4 - Latest |
-| [dirtyZero](https://github.com/jailbreakdotparty/dirtyZero) | A simple customization toolbox that utilizes CVE-2025-24203. | iOS 16.0 - iOS 18.3.2¹ |
-| [Lithium](https://github.com/jailbreakdotparty/Lithium) | A configuration profile generator that's centered around device customization. | iOS 16.0 - Latest |
-| [Omega](https://github.com/jailbreakdotparty/Omega) | A simple tool to clear app revoke and certificate validity databases, for sideloaders. | iOS 16.0 - Latest |
+| [Erosion](https://github.com/jailbreakdotparty/Erosion) | iOS customization toolbox using the bad_query sandbox escape. | iOS 26.0 - 26.6.1 & iOS 27.0db1-db4 |
+| [PancakeStore](https://github.com/jailbreakdotparty/PancakeStore) **(EoL)** | iOS app downgrader based off of MuffinStore Jailed. | iOS 16.4 - Latest |
+| [dirtyZero](https://github.com/jailbreakdotparty/dirtyZero) | Simple customization toolbox, utilizing CVE-2025-24203. | iOS 16.0 - iOS 18.3.2¹ |
+| [Lithium](https://github.com/jailbreakdotparty/Lithium) | Limited customization tool using MDM configuration profiles | iOS 16.0 - Latest |
+| [Omega](https://github.com/jailbreakdotparty/Omega) | Tool to clear app revoke and certificate validity databases, for sideloaders. | iOS 16.0 - Latest |
 
 While not explicitly stated, these tools also work on iPadOS, though YMMV.
 
