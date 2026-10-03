@@ -12,7 +12,7 @@
 ## Projects
 | Project Name | Description | Supported Software |
 | - | - | - |
-| [Blade](https://github.com/jailbreakdotparty/Blade) | Coming soon... | iOS 16.0 - 18.7.1 & iOS 26.0/26.0.1¹ |
+| [Filos](https://github.com/jailbreakdotparty/Filos) | Modern and open-source file manager. | iOS 15.0 - Latest |
 | [Erosion](https://github.com/jailbreakdotparty/Erosion) | iOS customization toolbox using the bad_query sandbox escape. | iOS 26.0 - 26.6.1 & iOS 27.0db1-db4 |
 | [PancakeStore](https://github.com/jailbreakdotparty/PancakeStore) **(EoL)** | iOS app downgrader based off of MuffinStore Jailed. | iOS 16.4 - Latest |
 | [dirtyZero](https://github.com/jailbreakdotparty/dirtyZero) | Simple customization toolbox, utilizing CVE-2025-24203. | iOS 16.0 - iOS 18.3.2¹ |
