@@ -3,8 +3,6 @@
 
 [Website](https://jailbreak.party) • [Discord](https://jailbreak.party/discord) • [Twitter](https://twitter.com/jbdotparty)
 
-> If you need support, join the Discord! **We will NOT respond to requests for support on our Twitter/Discord accounts or emails.**
-
 ## Team
 - [lunginspector](https://github.com/lunginspector): Manager & Developer
 - [Skadz](https://github.com/skadz108): Project Lead, Main Developer, & System Researcher
@@ -24,8 +22,6 @@ While not explicitly stated, these tools also work on iPadOS, though YMMV.
 ¹There are exceptions to version support, especially for legacy devices. Please check the repository to see if your device is supported.
 
 ## Contact
-You can get support for our projects or contact us via our [Discord server](https://jailbreak.party/discord).
+jailbreak.party is closed, so we won't be providing support on any of our projects. **Do not DM us for support, or ask in the jailbreak.party discord server.**
 
-For more serious inquiries, it is recommended that you send us an email at `team [at] jailbreak [dot] party`. Note that responses may be delayed. You can also contact us individually on Twitter or Discord.
-
-Do not email us or DM us directly for support. We will not respond to them.
+For more serious inquiries, it is best that you send either of us a DM on discord, or you can email at `team [at] jailbreak [dot] party`. Note that responses may be delayed, especially with the email option.
